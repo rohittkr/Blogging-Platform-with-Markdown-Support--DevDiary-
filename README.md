@@ -1,1 +1,2 @@
 # Blogging-Platform-with-Markdown-Support--DevDiary-
+DevDiary is a modern blogging platform designed for developers and tech enthusiasts. It combines a sleek, responsive interface with Markdown support, enabling users to create and share beautifully formatted posts with ease. This project showcases a complete web development workflow, including backend API design, database integration, and frontend implementation
